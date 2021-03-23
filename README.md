@@ -1,2 +1,1 @@
-# jetstyle
-jetstyle
+https://iamitd.github.io/jetstyletz/
