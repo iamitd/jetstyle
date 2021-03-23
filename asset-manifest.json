@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jetstyletz/static/css/main.1fc5b5d4.chunk.css",
+    "main.js": "/jetstyletz/static/js/main.38942b85.chunk.js",
+    "main.js.map": "/jetstyletz/static/js/main.38942b85.chunk.js.map",
+    "runtime-main.js": "/jetstyletz/static/js/runtime-main.d26d30ba.js",
+    "runtime-main.js.map": "/jetstyletz/static/js/runtime-main.d26d30ba.js.map",
+    "static/js/2.a7cc9b2d.chunk.js": "/jetstyletz/static/js/2.a7cc9b2d.chunk.js",
+    "static/js/2.a7cc9b2d.chunk.js.map": "/jetstyletz/static/js/2.a7cc9b2d.chunk.js.map",
+    "static/js/3.d82dcd4f.chunk.js": "/jetstyletz/static/js/3.d82dcd4f.chunk.js",
+    "static/js/3.d82dcd4f.chunk.js.map": "/jetstyletz/static/js/3.d82dcd4f.chunk.js.map",
+    "index.html": "/jetstyletz/index.html",
+    "static/css/main.1fc5b5d4.chunk.css.map": "/jetstyletz/static/css/main.1fc5b5d4.chunk.css.map",
+    "static/js/2.a7cc9b2d.chunk.js.LICENSE.txt": "/jetstyletz/static/js/2.a7cc9b2d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d26d30ba.js",
+    "static/js/2.a7cc9b2d.chunk.js",
+    "static/css/main.1fc5b5d4.chunk.css",
+    "static/js/main.38942b85.chunk.js"
+  ]
+}
